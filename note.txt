@@ -1,0 +1,16 @@
+npx create-react-app .
+=> tạo dự án reactjs tại folder (rỗng) đang dc mở trong terminal
+
+npm start 
+=> khởi chạy dự án (ko dùng live sever nữa)
+
+node_modules
+=> chứa code thư viện (axios, slick) => ko vào đây code
+
+src
+=> sẽ chứa các Component
+
+package.json
+=> chứa thông tin : tên thư viện, các câu lệnh dự án
+
+
